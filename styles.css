@@ -18,9 +18,10 @@ html {
 
 body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top: 30px;
+ height: 100vh;
 }
 
 .container {
